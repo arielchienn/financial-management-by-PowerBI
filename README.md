@@ -1,5 +1,5 @@
 # Simple Personal financial management system 
-➡️[Demo Website](https://kagari0803.github.io/financial-management-by-PowerBI/)  
+➡️[Demo Website]([https://kagari0803.github.io/financial-management-by-PowerBI/](https://arielchienn.github.io/financial-management-by-PowerBI/))  
 ❌RWD  
 
 ## How to use
